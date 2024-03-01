@@ -1,0 +1,29 @@
+{
+  "name": "visionaryspotter",
+  "version": "1.0.0",
+  "description": "VisionarySpotter is your go-to platform for exploring and supporting the diverse range of local businesses in your area. Find your new favorite spots, leave reviews, and connect with your community—all in one convenient place. Join us in celebrating the unique charm and vitality of local businesses with VisionarySpotter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itz-ivision/VisionarySpotter-BackendAPI.git"
+  },
+  "keywords": [
+    "\"Local",
+    "businesses\""
+  ],
+  "author": "Arnab Gupta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itz-ivision/VisionarySpotter-BackendAPI/issues"
+  },
+  "homepage": "https://github.com/itz-ivision/VisionarySpotter-BackendAPI#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.2.0",
+    "nodemon": "^3.1.0"
+  }
+}
