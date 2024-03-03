@@ -1,4 +1,4 @@
-VisionarySpotter
+#VisionarySpotter
 Welcome to VisionarySpotter, your ultimate destination for discovering and connecting with the vibrant tapestry of local businesses in your community. Whether you're a resident seeking new experiences or a business owner eager to showcase your offerings, VisionarySpotter is here to empower you.
 VisionarySpotter is a digital platform designed to help users discover and connect with local businesses in their communities. Whether you're a resident looking for new experiences or a business owner eager to showcase your offerings, VisionarySpotter is your ultimate destination.
 VisionarySpotter: Your Gateway to Local Businesses
