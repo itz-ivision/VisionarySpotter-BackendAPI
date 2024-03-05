@@ -38,4 +38,8 @@ License
 VisionarySpotter is licensed under the MIT License. See the LICENSE file for details.
 
 Contact
+<<<<<<< HEAD
 If you have any questions or feedback, please contact us at visionaryspotter@example.com.
+=======
+If you have any questions or feedback, please contact us at visionaryspotter@example.com.
+>>>>>>> origin/main
